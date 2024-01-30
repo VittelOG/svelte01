@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<div id="hej"></div>
+<div id="hej">HELLOOO</div>
 
 <slot />
 
@@ -9,6 +9,6 @@
     #hej {
         background-color: red;
         width: 100%;
-        height: 100%;
+        height: 100px;
     }
 </style>

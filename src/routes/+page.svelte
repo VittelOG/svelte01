@@ -3,7 +3,7 @@
     <p>
         Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation
     </p>
-    <h1>this is the updated header</h1>
+    <h1>Yellow submarine</h1>
 </div>
 
 <style>
