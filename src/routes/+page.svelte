@@ -6,10 +6,17 @@
     <h1>Yellow submarine</h1>
 </div>
 
+<div id="mymy">Hello</div>
+
 <style>
     #mydiv {
         background-color: red;
         width: 100%;
         height: 100%;
+    }
+    #mymy {
+        height: 200px;
+        width: 200px;
+        background-color: yellow;
     }
 </style>
